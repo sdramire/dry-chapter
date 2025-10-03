@@ -6,7 +6,7 @@
 ## Integrantes:
 1. JOSE OBANDO
 2. NANCY PROAÑO
-3. DANIEL BUENDIA
+3. DANIEL RAMÍREZ
 4. STALIN TUPIZA 
 
 ## Descripción breve del enfoque para resolver el reto DRY:
